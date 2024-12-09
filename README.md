@@ -4,6 +4,9 @@
 
 **Gen-Ai Code Reviewer** is an intelligent, AI-powered tool designed to revolutionize the code review process. By leveraging advanced algorithms, this tool helps developers catch bugs, optimize code, and follow best practices with ease. Whether you’re a beginner or a seasoned developer, **Gen-Ai Code Reviewer** ensures your code is clean, efficient, and ready for deployment. 🌟
 
+## Demo Video 
+https://github.com/user-attachments/assets/c29444a4-ebdf-4f13-b22e-892042b03f87
+
 ## 🌟 Features
 
 - **Code Quality Check** ✅: Analyze your code for structural issues like unused variables, inconsistent indentation, and more.
