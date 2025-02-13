@@ -1,2 +1,5 @@
-streamlit
-google-generativeai
+streamlit==1.30.0
+google-generativeai==0.4.0
+protobuf==4.25.1
+requests==2.31.0
+python-dotenv==1.0.1
